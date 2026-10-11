@@ -141,7 +141,8 @@ Une organisation qui met en service son propre studio peut être considérée co
 
 - Module précédent : **Observer le studio avec Grafana** — dépôt
   [`clic-par-clic-studio3d-03-grafana`](https://github.com/guilhem-/clic-par-clic-studio3d-03-grafana).
-- Module suivant : **Une bibliothèque d'assets pour tous les rendus** (à venir).
+- Module suivant : **Une bibliothèque d'assets pour tous les rendus** — dépôt
+  [`clic-par-clic-studio3d-05-assets`](https://github.com/guilhem-/clic-par-clic-studio3d-05-assets).
 
 ## Licence
 
